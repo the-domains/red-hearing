@@ -1,0 +1,28 @@
+name: Red Hearing
+favicon: null
+layout_spectrum: 0.49604746513068676
+typography_spectrum: 0.5008779866620898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8180842187721282
+  lightness: 0.9301252732984722
+  saturation: 0.19393709301948547
+  rhythmicContrast: 0.7047245579306036
+purpose: []
